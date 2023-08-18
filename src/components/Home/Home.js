@@ -21,8 +21,7 @@ function Home() {
              <h4>-Research Assistant</h4>
              <h4>-Java Developer</h4>  
              <h4>-Mathematics Tutor</h4> 
-             <h4>-UI/UX Developer</h4> 
-             <h4>-Germinating</h4>
+             <h4>-UI/UX Developer</h4>
              <></>
 
               <br />
