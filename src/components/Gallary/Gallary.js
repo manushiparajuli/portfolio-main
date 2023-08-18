@@ -13,7 +13,7 @@ import ILMUNC from "../../Assets/ILMUNC.png";
 import ACM from "../../Assets/ACM.jpg";
 import JBC from "../../Assets/JBC.png";
 import DMT from "../../Assets/DMT.jpg";
-import Hackathon from "../../Assets/Hackathon.jpg";
+import Hackathon from "../../Assets/Hackathon.png";
 
 
 function Gallery() {
